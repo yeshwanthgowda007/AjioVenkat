@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AJIO" verbose="10">
+  <test thread-count="5"  name="Test">
+    <classes>
+      <class name="com.venkat_ajio.tests.AjioProductOrderSteps"/>
+    </classes>
+    <!-- <packages>
+    <package name ="com.venkat_ajio"/>
+    </packages> -->
+  </test> 
+</suite> 

@@ -1,0 +1,8 @@
+searchresults.grid.link = {\"locator\":\"xpath=//div[@class='%s']\",\"desc\":\"grid type\"}
+searchresults.productcomponent.component = {\"locator\":\"css=div[class='preview']\",\"desc\":\"product cpmponent\"}
+searchresults.brand.link = {\"locator\":\"css=div[class='brand']\",\"desc\":\"product brand\"}
+searchresults.price.link = {\"locator\":\"css=span[class='price']\",\"desc\":\"product price\"}
+searchresults.pname.link = {\"locator\":\"xpath=//div[text()='%s']\",\"desc\":\"product name\"}
+searchresults.pcount.text = {\"locator\":\"css=div[class='length']\",\"desc\":\"products count\"}
+searchresults.sortby.dropdown = {\"locator\":\"xpath=//select\",\"desc\":\"sort by\"}
+searchresults.brandname.checkbox = {\"locator\":\"xpath=//input[@value='%s']\",\"desc\":\"brand\"}

@@ -1,0 +1,3 @@
+home.category.link = {\"locator\":\"xpath=//a[@title='%s']\",\"desc\":\"category\"}
+home.subcategory.link = {\"locator\":\"xpath=//a[@title='%s']\",\"desc\":\"sub_category\"}
+home.popup.link = {\"locator\":\"css=a[href='/shop/men']\",\"desc\":\"popup\"}

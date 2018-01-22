@@ -1,0 +1,591 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "maximizeCurrentWindow",
+      "args": [
+        "{}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 15
+    },
+    {
+      "commandName": "get",
+      "args": [
+        "{url=http://www.ajio.com}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 3
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 3
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 4
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 6
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 6
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 4
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 2
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 2
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 3
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 6
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 6
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 6
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 5
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 6
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 6
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 2
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 2
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 4
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 3
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 2
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 2
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 1
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 3
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 3
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 2
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 2
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 5
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 6
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=a[href='/shop/men'], using=css selector}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 11
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 5
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 3
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 6
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 6
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 5
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 0
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//a[@title='MEN'], using=xpath}"
+      ],
+      "result": "{stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}",
+      "subLogs": [],
+      "duration": 3
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Timed out after 30 seconds waiting for presence of element located by: By.xpath: //a[@title='MEN']\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL12225', ip: '10.11.31.179', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: driver.version: QAFExtendedWebDriver",
+      "type": "Fail",
+      "screenshot": "../img/testProductOrderSteps_16pr89lqibr4o29817.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": "org.openqa.selenium.TimeoutException: Timed out after 30 seconds waiting for presence of element located by: By.xpath: //a[@title='MEN']\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL12225', ip: '10.11.31.179', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: driver.version: QAFExtendedWebDriver\r\n\tat org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:292)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.load(QAFExtendedWebDriver.java:214)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.load(QAFExtendedWebElement.java:284)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.getId(QAFExtendedWebElement.java:294)\r\n\tat org.openqa.selenium.remote.RemoteWebElement$1.getAuxiliary(RemoteWebElement.java:440)\r\n\tat org.openqa.selenium.remote.RemoteMouse.paramsFromCoordinates(RemoteMouse.java:43)\r\n\tat org.openqa.selenium.remote.RemoteMouse.mouseMove(RemoteMouse.java:87)\r\n\tat org.openqa.selenium.interactions.MoveMouseAction.perform(MoveMouseAction.java:39)\r\n\tat org.openqa.selenium.interactions.CompositeAction.perform(CompositeAction.java:50)\r\n\tat org.openqa.selenium.interactions.Actions.perform(Actions.java:373)\r\n\tat com.venkat_ajio.pages.HomeTestPage.selectCategory(HomeTestPage.java:63)\r\n\tat com.venkat_ajio.tests.AjioProductOrderSteps.testProductOrderSteps(AjioProductOrderSteps.java:18)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:645)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:781)\r\n\tat org.testng.TestRunner.run(TestRunner.java:635)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:387)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:289)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1133)\r\n\tat org.testng.TestNG.run(TestNG.java:1104)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:122)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)\r\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:101)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:164)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:110)\r\n\tat org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:172)\r\n\tat org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcessWhenForked(SurefireStarter.java:104)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:70)\r\nCaused by: org.openqa.selenium.WebDriverException: Returned value cannot be converted to WebElement: {stacktrace=stack backtrace:\n   0:           0x47e934 - <no info>\n   1:           0x47f0a3 - <no info>\n   2:           0x442649 - <no info>\n   3:           0x429391 - <no info>\n   4:           0x406f5e - <no info>\n   5:           0x40cfc9 - <no info>\n   6:           0x6bef19 - <no info>\n   7:           0x420756 - <no info>\n   8:           0x6b96e0 - <no info>\n   9:     0x7ff83dd28102 - BaseThreadInitThunk, error=invalid session id, message=Got unexpected session id null}\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL12225', ip: '10.11.31.179', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: driver.version: QAFExtendedWebDriver\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElementByXPath(QAFExtendedWebDriver.java:398)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElementByXPath(QAFExtendedWebDriver.java:1)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:361)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElement(QAFExtendedWebDriver.java:169)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElement(QAFExtendedWebDriver.java:1)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:899)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:41)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:181)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:178)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:238)\r\n\t... 45 more\r\nCaused by: java.lang.ClassCastException: com.google.common.collect.Maps$TransformedEntriesMap cannot be cast to org.openqa.selenium.WebElement\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)\r\n\t... 57 more\r\n"
+}

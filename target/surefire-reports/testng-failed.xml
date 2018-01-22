@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [AJIO]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.venkat_ajio.tests.AjioProductOrderSteps">
+        <methods>
+          <include name="afterSuit"/>
+          <include name="setupMethod"/>
+          <include name="testProductOrderSteps"/>
+          <include name="setupSuit"/>
+          <include name="setupTest"/>
+          <include name="afterClass"/>
+          <include name="setup"/>
+          <include name="afterMethod"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.venkat_ajio.tests.AjioProductOrderSteps -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [AJIO] -->

@@ -1,0 +1,7 @@
+detailspage.brandname.txt = {\"locator\":\"css=h2[class='brand-name']\",\"desc\":\"brand name\"}
+detailspage.price.txt = {\"locator\":\"css=div[class='prod-sp']\",\"desc\":\"product price\"}
+detailspage.pname.txt = {\"locator\":\"css=h1[class='prod-name']\",\"desc\":\"product name\"}
+detailspage.pcolor.txt = {\"locator\":\"css=p[class='prod-color']\",\"desc\":\"product color\"}
+detailspage.psize.txt = {\"locator\":\"xpath=//div[text()='L']\",\"desc\":\"product size\"}
+detailspage.addtobag.lnk = {\"locator\":\"xpath=//span[text()='ADD TO BAG']\",\"desc\":\"Add to Bag\"}
+detailspage.productdescription.txt = {\"locator\":\"csssection[class='prod-desc']\",\"desc\":\"product description\"}
