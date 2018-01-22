@@ -37,8 +37,9 @@ public class HomeTestPage extends WebDriverBaseTestPage<WebDriverTestPage> {
 
 	public void launchApplication() throws InterruptedException
 	{
-		driver.manage().window().maximize();
 		driver.get("/");
+		driver.manage().window().maximize();
+		
 		
 	}
 
