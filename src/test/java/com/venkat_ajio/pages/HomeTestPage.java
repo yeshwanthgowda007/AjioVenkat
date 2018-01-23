@@ -57,7 +57,7 @@ public class HomeTestPage extends WebDriverBaseTestPage<WebDriverTestPage> {
 
 	}
 	//select category and sub_category from menu
-	//Yashwanth
+	
 	public void selectCategory(String categorytype , String subcategorytype )
 	{
 		QAFExtendedWebElement category = new QAFExtendedWebElement(String.format(ConfigurationManager.getBundle().getString("home.category.link"), categorytype));
