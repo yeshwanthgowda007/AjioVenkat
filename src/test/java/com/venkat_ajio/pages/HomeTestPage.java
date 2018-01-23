@@ -1,6 +1,5 @@
 package com.venkat_ajio.pages;
 
-import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
 
 import com.qmetry.qaf.automation.core.ConfigurationManager;
@@ -58,6 +57,7 @@ public class HomeTestPage extends WebDriverBaseTestPage<WebDriverTestPage> {
 
 	}
 	//select category and sub_category from menu
+	//Yashwanth
 	public void selectCategory(String categorytype , String subcategorytype )
 	{
 		QAFExtendedWebElement category = new QAFExtendedWebElement(String.format(ConfigurationManager.getBundle().getString("home.category.link"), categorytype));
